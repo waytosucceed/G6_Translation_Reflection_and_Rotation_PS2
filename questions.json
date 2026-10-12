@@ -1,0 +1,166 @@
+{
+  "heading": "G6_Rotation",
+  "topics": [
+    {
+      "heading": "Rotation",
+      "questions": [
+  
+ 
+  
+  {
+    "questionNo": 1,
+    "question": ["Which of the following shows a rotation?"],
+    "options": [
+      { "image": "./assests/images/question/30.png" },
+      { "image": "./assests/images/question/31.png" },
+      { "image": "./assests/images/question/32.png" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 2,
+    "question": ["Which of the following shows a rotation?"],
+    "options": [
+      { "image": "./assests/images/question/33.png" },
+      { "image": "./assests/images/question/34.png" },
+      { "image": "./assests/images/question/35.png" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 3,
+    "question": ["Which of the following shows a rotation?"],
+    "options": [
+      { "image": "./assests/images/question/36.png" },
+      { "image": "./assests/images/question/37.png" },
+      { "image": "./assests/images/question/38.png" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "The graph shows Point C and three possible image points, X, Y, and Z.<br>Point C is rotated 90° counterclockwise about the origin. Which point shows the correct image of Point C after the rotation?"
+    ],
+    "options": [
+      { "text": "Point X" },
+      { "text": "Point Y" },
+      { "text": "Point Z" }
+    ],
+    "answer": 0,
+    "image" : "./assests/images/question/40.png"
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "The graph shows Point D and three possible image points, X, Y, and Z.<br>Point D is rotated 180° counterclockwise about the origin. Which point shows the correct image of Point D after the rotation?"
+    ],
+    "options": [
+      { "text": "Point X" },
+      { "text": "Point Y" },
+      { "text": "Point Z" }
+    ],
+    "answer": 0,
+    "image" : "./assests/images/question/41.png"
+  },
+  {
+    "questionNo": 6,
+    "question": ["Rotate the given point 90 degrees clockwise about the origin."],
+    "options": [
+      { "image": "./assests/images/question/43.png" },
+      { "image": "./assests/images/question/44.png" },
+      { "image": "./assests/images/question/45.png" },
+      { "image": "./assests/images/question/46.png" }
+    ],
+    "answer": 0,
+    "image" : "./assests/images/question/42.png"
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "Find the coordinates of the given point after the rotation of 180 degrees counterclockwise.<br><img src = './assests/images/question/48.png' width = '30%' ><br>(______,______)"
+    ],
+    "input": ["", ""],
+    "answer": ["4", "-4"]
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "Rotate the shaded shape 180 degrees counterclockwise about (0,0). Choose the correct graph."
+    ],
+    "options": [
+      { "image": "./assests/images/question/51.png" },
+      { "image": "./assests/images/question/52.png" }
+    ],
+    "answer": 0,
+    "image" : "./assests/images/question/50.png"
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "Which of the following shows the 180 degrees clockwise rotation of the given square about the origin."
+    ],
+    "options": [
+      { "image": "./assests/images/question/55.png" },
+      { "image": "./assests/images/question/56.png" }
+    ],
+    "answer": 1,
+    "image" : "./assests/images/question/54.png"
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "Which of the following shows the 90 degrees rotation counterclockwise of the given square about the origin?"
+    ],
+    "options": [
+      { "image": "./assests/images/question/59.png" },
+      { "image": "./assests/images/question/60.png" },
+      { "image": "./assests/images/question/61.png" },
+      { "image": "./assests/images/question/62.png" }
+    ],
+    "answer": 3,
+    "image" : "./assests/images/question/58.png"
+  },
+  {
+    "questionNo": 11,
+    "question": [
+      "Describe the transformation shown."
+    ],
+    "options": [
+      { "text": "90 degrees rotation clockwise" },
+      { "text": "90 degrees rotation counter clockwise" }
+    ],
+    "answer": 0,
+    "image" : "./assests/images/question/63.png"
+  },
+  {
+    "questionNo": 12,
+    "question": ["Rotate the triangle 90 degrees anticlockwise around the origin."],
+    "options": [
+      { "image": "./assests/images/question/65.png" },
+      { "image": "./assests/images/question/66.png" },
+      { "image": "./assests/images/question/67.png" },
+      { "image": "./assests/images/question/68.png" }
+    ],
+    "answer": 0,
+    "image" : "./assests/images/question/64.png"
+  },
+  {
+    "questionNo": 13,
+    "question": ["Rotate the shape 90 degrees clockwise about the origin."],
+    "options": [
+      { "image": "./assests/images/question/70.png" },
+      { "image": "./assests/images/question/71.png" },
+      { "image": "./assests/images/question/72.png" },
+      { "image": "./assests/images/question/73.png" }
+    ],
+    "answer": 1,
+    "image" : "./assests/images/question/69.png"
+  }
+
+
+
+      ]
+    }
+  ]
+}
